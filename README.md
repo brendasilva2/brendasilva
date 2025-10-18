@@ -1,9 +1,9 @@
 # Olá, eu sou Brenda Azevedo da Silva 
 
-# 🎓 Formada em Letras Inglês/Português
-# 💻 Em busca de aprimoramento na carreira de desenvolvedora web 
-# 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas 
-# 📍 São Paulo, Brasil 
+### 🎓 Formada em Letras Inglês/Português
+### 💻 Em busca de aprimoramento na carreira de desenvolvedora web 
+### 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas 
+### 📍 São Paulo, Brasil 
 
 ## 🛠️ Tecnologias em aprendizado
 
