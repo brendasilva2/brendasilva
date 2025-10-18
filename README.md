@@ -1,9 +1,9 @@
 # Olá, eu sou Brenda Azevedo da Silva 
 
-🎓 Formada em Letras Inglês/Português
-💻 Em busca de aprimoramento na carreira de desenvolvedora web 
-👩‍💻 Cursando Análise e Desenvolvimento de Sistemas 
-📍 São Paulo, Brasil 
+# 🎓 Formada em Letras Inglês/Português
+# 💻 Em busca de aprimoramento na carreira de desenvolvedora web 
+# 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas 
+# 📍 São Paulo, Brasil 
 
 ## 🛠️ Tecnologias em aprendizado
 
@@ -19,7 +19,7 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/brenda-azevedo-da-silva-5a4919348/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/brenda-azevedo-da-silva-5a4919348/)] 
 📧 Email: brendazsilva2@gmail.com
 
 ---
